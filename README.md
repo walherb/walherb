@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walherb
-- 👀 I’m interested in mastering Full Stack JavaScript Programming
-- 🌱 I’m currently learning React JS + TypeScript
+- 👀 I’m Interested in Mastering DevOps and Cloud Computing
+- 🌱 I’m currently learning PHP + Laravel & Systems Apps Automation
 - 💞️ I’m looking to collaborate on Open Source Communities
 - 📫 How to reach me {WhatsApp: +256775454900, Email: walherb@gmail.com, Skype ID: walas775}
 
